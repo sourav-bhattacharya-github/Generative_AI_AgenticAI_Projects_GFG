@@ -6,6 +6,7 @@ Building next-generation conversational AI systems that combine advanced Retriev
 
 ## Technical Implementation
 
+
 ### Hospital Reviews Analysis Chatbot
 
 **Complete RAG-Powered Conversational Pipeline** combining advanced vector storage with AI-powered response generation using LangChain framework and Google Gemini integration.
