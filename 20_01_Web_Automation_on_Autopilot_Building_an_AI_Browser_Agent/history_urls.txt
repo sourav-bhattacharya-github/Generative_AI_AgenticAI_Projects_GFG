@@ -1,0 +1,12 @@
+Visited URLs:
+
+['about:blank', 
+'https://www.google.com/search?q=what+is+browser+automation&udm=14', 
+'https://www.google.com/search?q=what+is+browser+automation&udm=14&sei=8NHaaNK-GpP31e8P0P2vuAE', 
+'https://www.google.com/search?q=what+is+browser+automation&udm=14&sei=8NHaaNK-GpP31e8P0P2vuAE', 
+'https://www.google.com/search?q=what+is+browser+automation&udm=14&sei=8NHaaNK-GpP31e8P0P2vuAE',
+'https://www.browserstack.com/guide/what-is-browser-automation',
+'https://www.lambdatest.com/learning-hub/browser-automation',
+'https://www.browserless.io/blog/browser-automation']
+
+
