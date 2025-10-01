@@ -4,6 +4,8 @@
 
 Building next-generation autonomous AI agent systems that conduct comprehensive market research and analysis through collaborative multi-agent workflows. This project demonstrates advanced agentic AI development using the **CrewAI Market Research System**, showcasing the evolution from traditional single-agent systems to sophisticated multi-agent collaborative intelligence for deep market analysis and content generation.
 
+
+
 ## Technical Implementation
 
 ### CrewAI Market Research System
