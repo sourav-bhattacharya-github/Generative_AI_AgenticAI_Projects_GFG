@@ -38,6 +38,7 @@ Building intelligent Natural Language to SQL (NL2SQL) systems that enable non-te
 
 **Unified Framework Structure** implementing role-based prompt design for maximum accuracy:
 
+
 **ROLE Component**: Expert-level SQLite Database Engineer specialization
 **CONTEXT Component**: Business intelligence dashboard integration with production environment awareness
 **TASK Component**: Systematic natural language to SQL translation methodology
